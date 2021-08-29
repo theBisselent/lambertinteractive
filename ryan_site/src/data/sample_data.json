@@ -1,7 +1,8 @@
 [{
-  "id": 1,
+  "id": 0,
   "title": "Vorwerk Thermomix",
   "image": "logo.png",
+  "video": "https://www.youtube.com/watch?v=kZGYuOSVJ2k",
   "time": "2017 - Present",
   "points": [
     "Engaged with clients around the world to develop award-winning user interfaces using Lua and C.",
@@ -12,9 +13,10 @@
   ]
 },
 {
-  "id": 2,
+  "id": 1,
   "title": "Project Marko",
   "image": "marko.jpg",
+  "video": "https://www.youtube.com/watch?v=toZrOkcICpk",
   "time": "2016 - 2017",
   "points": [
     "Corresponded with stakeholders from many departments to ensure website was up to date, accessible, and search engine optimized.",
@@ -24,9 +26,10 @@
   ]
 },
 {
-  "id": 3,
+  "id": 2,
   "title": "Red Bull Crashed Ice Documentary",
   "image": "redbull.jpg",
+  "video": "https://www.youtube.com/watch?v=toZrOkcICpk",
   "time": "2011 - 2016",
   "points": [
     "Managed a team of 5 employees, communicating and coordinating with them to achieve strategic goals.",
