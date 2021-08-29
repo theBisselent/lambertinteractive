@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "school": "University of Toronto",
+    "course": "Certificate in Agile Project Management",
+    "time": "2021 - Present",
+    "points": [
+    ]
+  },
+  {
+  "id": 2,
+  "school": "Carleton University / Algonquin College",
+  "course": "Bachelor of Information Technology in Interactive Multimedia and Design",
+  "time": "2010 - 2017",
+  "points": [
+  ]
+}
+]

@@ -1,0 +1,35 @@
+[{
+  "id": 1,
+  "company": "Crank Software",
+  "role": "Application Developer",
+  "time": "2017 - Present",
+  "points": [
+    "Engaged with clients around the world to develop award-winning user interfaces using Lua and C.",
+    "Spearheaded 3 customer projects in the past year, receiving praise from stakeholders for quality of work and customer service.",
+    "Praised on multiple occasions by management for exceptional time management and organizational skills.",
+    "Presented creativity workshop for customer service team, focused on alternative design and metaphor-based approaches to problem-solving.",
+    "Authored several articles and tutorials to help educate customers on effective workflows and features of the product."
+  ]
+},
+{
+  "id": 2,
+  "company": "Canadian Museum of History",
+  "role": "Digital Experience Developer",
+  "time": "2016 - 2017",
+  "points": [
+    "Corresponded with stakeholders from many departments to ensure website was up to date, accessible, and search engine optimized.",
+    "Developed a motion-sensing, interactive experience to display a countdown to the opening of the Canadian History Hall.",
+    "Prototyped user experiences for potential use within museum exhibits, using cutting-edge technologies such as AR, VR, and motion sensors to tell unique stories.",
+    "Consulted and provided expertise on technology for upcoming exhibits with curators and designers throughout the museum."
+  ]
+},
+{
+  "id": 3,
+  "company": "The Old Co-op",
+  "role": "Manager",
+  "time": "2011 - 2016",
+  "points": [
+    "Managed a team of 5 employees, communicating and coordinating with them to achieve strategic goals.",
+    "Tracked and procured inventory for several departments, including researching options for special customer requests."
+  ]
+}]
